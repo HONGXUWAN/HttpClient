@@ -35,6 +35,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         sendrequest = (Button) findViewById(R.id.send_request);
         requesttext = (TextView) findViewById(R.id.request_text);
+        //fjslfjejoirfrjewfjewojf
         sendrequest.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
